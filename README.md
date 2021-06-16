@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leziga
 - 👀 I’m interested in Learning and growing 
-- 🌱 I’m currently learning Phython 3
+- 🌱 I’m currently taking up projects Phython 3
 - 💞️ I’m looking to collaborate on project
 - 📫 Send me a message
 
